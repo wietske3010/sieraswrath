@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: d0f12c53df4c58d45aa713186ab82f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2581191555707188084
+    second: garden_decor _0
+  - first:
+      213: 1707368544431477659
+    second: garden_decor _1
+  - first:
+      213: 648911360076298076
+    second: garden_decor _2
+  - first:
+      213: -7192689961258684665
+    second: garden_decor _3
+  - first:
+      213: -3660211544948144147
+    second: garden_decor _4
+  - first:
+      213: -7487291365018305746
+    second: garden_decor _5
+  - first:
+      213: -1717568085481121890
+    second: garden_decor _6
+  - first:
+      213: 7439273444480784029
+    second: garden_decor _7
+  - first:
+      213: -8818175548954721607
+    second: garden_decor _8
+  - first:
+      213: 8587785317031729255
+    second: garden_decor _9
+  - first:
+      213: 3636759611076110613
+    second: garden_decor _10
+  - first:
+      213: 6850636604626575513
+    second: garden_decor _11
+  - first:
+      213: -4601908119737319329
+    second: garden_decor _12
+  - first:
+      213: -3300111070934274640
+    second: garden_decor _13
+  - first:
+      213: -949076302568695857
+    second: garden_decor _14
+  - first:
+      213: -4251412934508222499
+    second: garden_decor _15
+  - first:
+      213: 8586550122853475334
+    second: garden_decor _16
+  - first:
+      213: 5969049669201518468
+    second: garden_decor _17
+  - first:
+      213: 5421935085997928171
+    second: garden_decor _18
+  - first:
+      213: 776426164828834307
+    second: garden_decor _19
+  - first:
+      213: 6253451552200804724
+    second: garden_decor _20
+  - first:
+      213: -7632313686920734989
+    second: garden_decor _21
+  - first:
+      213: -2510354051532982326
+    second: garden_decor _22
+  - first:
+      213: 2231387251698903786
+    second: garden_decor _23
+  - first:
+      213: -2699629284851665647
+    second: garden_decor _24
+  - first:
+      213: 3842912259513923243
+    second: garden_decor _25
+  - first:
+      213: -9008275199770015413
+    second: garden_decor _26
+  - first:
+      213: 7835998815211957217
+    second: garden_decor _27
+  - first:
+      213: 5152079991798182322
+    second: garden_decor _28
+  - first:
+      213: 8728385434555809598
+    second: garden_decor _29
+  - first:
+      213: -590756984850250806
+    second: garden_decor _30
+  - first:
+      213: -7046093431021074278
+    second: garden_decor _31
+  - first:
+      213: -5015257766081128319
+    second: garden_decor _32
+  - first:
+      213: -1516074592456151225
+    second: garden_decor _33
+  - first:
+      213: 2554705986877927254
+    second: garden_decor _34
+  - first:
+      213: -6963510511790346367
+    second: garden_decor _35
+  - first:
+      213: -1680648792568981590
+    second: garden_decor _36
+  - first:
+      213: -6623739068606640207
+    second: garden_decor _37
+  - first:
+      213: 8086150992550511054
+    second: garden_decor _38
+  - first:
+      213: 8265521098592989591
+    second: garden_decor _39
+  - first:
+      213: -7037367463221574990
+    second: garden_decor _40
+  - first:
+      213: -6101795172384868938
+    second: garden_decor _41
+  - first:
+      213: 1712460951853063489
+    second: garden_decor _42
+  - first:
+      213: -8844275330358811163
+    second: garden_decor _43
+  - first:
+      213: -8315948359125450519
+    second: garden_decor _44
+  - first:
+      213: -9024598666377957623
+    second: garden_decor _45
+  - first:
+      213: 2625534902276506853
+    second: garden_decor _46
+  - first:
+      213: 8037212140507150234
+    second: garden_decor _47
+  - first:
+      213: -7726292445992587736
+    second: garden_decor _48
+  - first:
+      213: 6042353626879259832
+    second: garden_decor _49
+  - first:
+      213: 484010971034737222
+    second: garden_decor _50
+  - first:
+      213: 6076262510036319806
+    second: garden_decor _51
+  - first:
+      213: -8304608422332680937
+    second: garden_decor _52
+  - first:
+      213: -4609586243819518482
+    second: garden_decor _53
+  - first:
+      213: 7343845245084913781
+    second: garden_decor _54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden_decor _0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 563
+        width: 81
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc5d0b4f3cd2cd0800000000000000
+      internalID: -2581191555707188084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 563
+        width: 145
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93938725aac1b710800000000000000
+      internalID: 1707368544431477659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 565
+        width: 156
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573014a175610900800000000000000
+      internalID: 648911360076298076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 561
+        width: 226
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f68a7b69e6e2c90800000000000000
+      internalID: -7192689961258684665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 740
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de705941ef0543dc0800000000000000
+      internalID: -3660211544948144147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 560
+        width: 274
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bfb324c2cc71890800000000000000
+      internalID: -7487291365018305746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 739
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9799532de8f928e0800000000000000
+      internalID: -1717568085481121890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _7
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 561
+        width: 252
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96164568cb9d3760800000000000000
+      internalID: 7439273444480784029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 418
+        width: 106
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c4851f0c8f9580800000000000000
+      internalID: -8818175548954721607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 418
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768ddfcee31fd2770800000000000000
+      internalID: 8587785317031729255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 418
+        width: 116
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519edaf099d587230800000000000000
+      internalID: 3636759611076110613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 416
+        width: 284
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9902e0812b9521f50800000000000000
+      internalID: 6850636604626575513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 416
+        width: 136
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50421272fcb220c0800000000000000
+      internalID: -4601908119737319329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 420
+        width: 137
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e2250672fff4c0800000000000000
+      internalID: -4251412934508222499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _17
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 417
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5b6b7c0356d250800000000000000
+      internalID: 5969049669201518468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _18
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 418
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee222ceb359e3b40800000000000000
+      internalID: 5421935085997928171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 281
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115bc2bf77df88ad0800000000000000
+      internalID: -2699629284851665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 135
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494fb60f6d2cf280800000000000000
+      internalID: -9008275199770015413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 278
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2711d76f0fbc60800000000000000
+      internalID: 7835998815211957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 278
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b13785a47ddf7740800000000000000
+      internalID: 5152079991798182322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _29
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 286
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7469ce44712970800000000000000
+      internalID: 8728385434555809598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _30
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 283
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac38b69f6a53dc7f0800000000000000
+      internalID: -590756984850250806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _31
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 278
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9886c53b5f373e90800000000000000
+      internalID: -7046093431021074278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _34
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 281
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f2c654f83247320800000000000000
+      internalID: 2554705986877927254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _39
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 285
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791b12585a705b270800000000000000
+      internalID: 8265521098592989591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 137
+        width: 71
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b249c8e39f365e90800000000000000
+      internalID: -7037367463221574990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 136
+        width: 69
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57ec19e91125ba0800000000000000
+      internalID: -6101795172384868938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 143
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ddde6a922e3c710800000000000000
+      internalID: 1712460951853063489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _43
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 138
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5663e2272d24580800000000000000
+      internalID: -8844275330358811163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _44
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 136
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c5d3f601d79c80800000000000000
+      internalID: -8315948359125450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _45
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 138
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fe31ac35f22c280800000000000000
+      internalID: -9024598666377957623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _46
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 138
+        width: 145
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c49b3516cf6420800000000000000
+      internalID: 2625534902276506853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _47
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 136
+        width: 111
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97b26bdbd9e98f60800000000000000
+      internalID: 8037212140507150234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 61
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ee3ddb4f1b6c490800000000000000
+      internalID: -7726292445992587736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47e612c90cad350800000000000000
+      internalID: 6042353626879259832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _50
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 15
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64adaebe96d87b600800000000000000
+      internalID: 484010971034737222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _51
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 57
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3efcb83f88335450800000000000000
+      internalID: 6076262510036319806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _52
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b42cb3aa10cc80800000000000000
+      internalID: -8304608422332680937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _53
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 0
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee54c9fdbb57700c0800000000000000
+      internalID: -4609586243819518482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_decor _54
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705abe47549ae560800000000000000
+      internalID: 7343845245084913781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d18e1de3ad44e8a4090ffe440d73de5d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden_decor _0: -2581191555707188084
+      garden_decor _1: 1707368544431477659
+      garden_decor _10: 3636759611076110613
+      garden_decor _11: 6850636604626575513
+      garden_decor _12: -4601908119737319329
+      garden_decor _13: -3300111070934274640
+      garden_decor _14: -949076302568695857
+      garden_decor _15: -4251412934508222499
+      garden_decor _16: 8586550122853475334
+      garden_decor _17: 5969049669201518468
+      garden_decor _18: 5421935085997928171
+      garden_decor _19: 776426164828834307
+      garden_decor _2: 648911360076298076
+      garden_decor _20: 6253451552200804724
+      garden_decor _21: -7632313686920734989
+      garden_decor _22: -2510354051532982326
+      garden_decor _23: 2231387251698903786
+      garden_decor _24: -2699629284851665647
+      garden_decor _25: 3842912259513923243
+      garden_decor _26: -9008275199770015413
+      garden_decor _27: 7835998815211957217
+      garden_decor _28: 5152079991798182322
+      garden_decor _29: 8728385434555809598
+      garden_decor _3: -7192689961258684665
+      garden_decor _30: -590756984850250806
+      garden_decor _31: -7046093431021074278
+      garden_decor _32: -5015257766081128319
+      garden_decor _33: -1516074592456151225
+      garden_decor _34: 2554705986877927254
+      garden_decor _35: -6963510511790346367
+      garden_decor _36: -1680648792568981590
+      garden_decor _37: -6623739068606640207
+      garden_decor _38: 8086150992550511054
+      garden_decor _39: 8265521098592989591
+      garden_decor _4: -3660211544948144147
+      garden_decor _40: -7037367463221574990
+      garden_decor _41: -6101795172384868938
+      garden_decor _42: 1712460951853063489
+      garden_decor _43: -8844275330358811163
+      garden_decor _44: -8315948359125450519
+      garden_decor _45: -9024598666377957623
+      garden_decor _46: 2625534902276506853
+      garden_decor _47: 8037212140507150234
+      garden_decor _48: -7726292445992587736
+      garden_decor _49: 6042353626879259832
+      garden_decor _5: -7487291365018305746
+      garden_decor _50: 484010971034737222
+      garden_decor _51: 6076262510036319806
+      garden_decor _52: -8304608422332680937
+      garden_decor _53: -4609586243819518482
+      garden_decor _54: 7343845245084913781
+      garden_decor _6: -1717568085481121890
+      garden_decor _7: 7439273444480784029
+      garden_decor _8: -8818175548954721607
+      garden_decor _9: 8587785317031729255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

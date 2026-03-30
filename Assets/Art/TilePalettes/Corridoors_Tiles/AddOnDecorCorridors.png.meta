@@ -1,0 +1,1141 @@
+fileFormatVersion: 2
+guid: 0d15ae7629391a64f90e8e378e36f3b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8323717229544932660
+    second: AddOnDecorCorridors_0
+  - first:
+      213: 3436294759273461368
+    second: AddOnDecorCorridors_1
+  - first:
+      213: -6055083326340592520
+    second: AddOnDecorCorridors_2
+  - first:
+      213: 8484959577710734209
+    second: AddOnDecorCorridors_3
+  - first:
+      213: -6495153309163860667
+    second: AddOnDecorCorridors_4
+  - first:
+      213: 646240905308014532
+    second: AddOnDecorCorridors_5
+  - first:
+      213: 7921330910575305926
+    second: AddOnDecorCorridors_6
+  - first:
+      213: -1004539827383411886
+    second: AddOnDecorCorridors_7
+  - first:
+      213: 860308126849399116
+    second: AddOnDecorCorridors_8
+  - first:
+      213: -6790882709146968974
+    second: AddOnDecorCorridors_9
+  - first:
+      213: -2475418037367764107
+    second: AddOnDecorCorridors_10
+  - first:
+      213: 1289231846588564274
+    second: AddOnDecorCorridors_11
+  - first:
+      213: 4969314105700283303
+    second: AddOnDecorCorridors_12
+  - first:
+      213: -2766263319925517338
+    second: AddOnDecorCorridors_13
+  - first:
+      213: -5519907517613087483
+    second: AddOnDecorCorridors_14
+  - first:
+      213: 7679861515038526484
+    second: AddOnDecorCorridors_15
+  - first:
+      213: -381935732389114304
+    second: AddOnDecorCorridors_16
+  - first:
+      213: 3613372350737490225
+    second: AddOnDecorCorridors_17
+  - first:
+      213: -6249566205739270519
+    second: AddOnDecorCorridors_18
+  - first:
+      213: 1251403639772523408
+    second: AddOnDecorCorridors_19
+  - first:
+      213: -363655952184095538
+    second: AddOnDecorCorridors_20
+  - first:
+      213: 2218196743228757465
+    second: AddOnDecorCorridors_21
+  - first:
+      213: -530294251486063607
+    second: AddOnDecorCorridors_22
+  - first:
+      213: -2662944503131091666
+    second: AddOnDecorCorridors_23
+  - first:
+      213: 8309095673488531397
+    second: AddOnDecorCorridors_24
+  - first:
+      213: 6923117219101397838
+    second: AddOnDecorCorridors_25
+  - first:
+      213: -3313510667940402571
+    second: AddOnDecorCorridors_26
+  - first:
+      213: 2297205022654558713
+    second: AddOnDecorCorridors_27
+  - first:
+      213: -5826798290614642209
+    second: AddOnDecorCorridors_28
+  - first:
+      213: 2114959155743317112
+    second: AddOnDecorCorridors_29
+  - first:
+      213: 394127777841206805
+    second: AddOnDecorCorridors_30
+  - first:
+      213: -6833937042226576609
+    second: AddOnDecorCorridors_31
+  - first:
+      213: 8799625833469485912
+    second: AddOnDecorCorridors_32
+  - first:
+      213: 4336954035535806922
+    second: AddOnDecorCorridors_33
+  - first:
+      213: 8663091577050228270
+    second: AddOnDecorCorridors_34
+  - first:
+      213: 1271595681797773707
+    second: AddOnDecorCorridors_35
+  - first:
+      213: 4145231088311288970
+    second: AddOnDecorCorridors_36
+  - first:
+      213: -2048928815564936566
+    second: AddOnDecorCorridors_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 130
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccafc2ad7473c7c80800000000000000
+      internalID: -8323717229544932660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f70690eb20bf20800000000000000
+      internalID: 3436294759273461368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 133
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0410cbc508fba0800000000000000
+      internalID: -6055083326340592520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 210
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2ffad7c1a0c570800000000000000
+      internalID: 8484959577710734209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 181
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dc5956a749cd5a0800000000000000
+      internalID: -6495153309163860667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 165
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70630fda8e7f800800000000000000
+      internalID: 646240905308014532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 191
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4a9218e783eed60800000000000000
+      internalID: 7921330910575305926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b541a69582f02f0800000000000000
+      internalID: -1004539827383411886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c497d3aeead60fb00800000000000000
+      internalID: 860308126849399116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd3f9d720f1c1a0800000000000000
+      internalID: -6790882709146968974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b891c096c85add0800000000000000
+      internalID: -2475418037367764107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 131
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334809a88544e110800000000000000
+      internalID: 1289231846588564274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a37a9fb9dc86f440800000000000000
+      internalID: 4969314105700283303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 169
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e395a4ba224c99d0800000000000000
+      internalID: -2766263319925517338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 172
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e9a3cb595563b0800000000000000
+      internalID: -5519907517613087483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 131
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c8018bb59549a60800000000000000
+      internalID: 7679861515038526484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0be7997713baf0800000000000000
+      internalID: -381935732389114304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 130
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1312dee2207452230800000000000000
+      internalID: 3613372350737490225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 86
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eff92c5a41549a0800000000000000
+      internalID: -6249566205739270519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 131
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba54beaf0ed5110800000000000000
+      internalID: 1251403639772523408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4c9596d804faf0800000000000000
+      internalID: -363655952184095538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5141a7f2e98ce10800000000000000
+      internalID: 2218196743228757465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ddb9103404a8f0800000000000000
+      internalID: -530294251486063607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dca4255125b0bd0800000000000000
+      internalID: -2662944503131091666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 84
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd407dd76df4370800000000000000
+      internalID: 8309095673488531397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43dde63e6ad31060800000000000000
+      internalID: 6923117219101397838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae1fd6a9b0402d0800000000000000
+      internalID: -3313510667940402571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 39
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f171970ccf41ef10800000000000000
+      internalID: 2297205022654558713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99f0e83dd032fa0800000000000000
+      internalID: -5826798290614642209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c5a888528d95d10800000000000000
+      internalID: 2114959155743317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 58
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d6523029387500800000000000000
+      internalID: 394127777841206805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1383b4c77af821a0800000000000000
+      internalID: -6833937042226576609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 39
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853ac48b21d8e1a70800000000000000
+      internalID: 8799625833469485912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 38
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac10f4797b4ff2c30800000000000000
+      internalID: 4336954035535806922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 24
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26e1cae3eb793870800000000000000
+      internalID: 8663091577050228270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891a7f098d95a110800000000000000
+      internalID: 1271595681797773707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8443b266b1d68930800000000000000
+      internalID: 4145231088311288970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 148
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa032191eb093e0800000000000000
+      internalID: -2048928815564936566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddOnDecorCorridors_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b596000e3c14a0418451ee7e3eb2941
+      internalID: -1265024759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: acb5b40ffbcb04941a3c8cb90e3b4818
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AddOnDecorCorridors_0: -8323717229544932660
+      AddOnDecorCorridors_1: 3436294759273461368
+      AddOnDecorCorridors_10: -2475418037367764107
+      AddOnDecorCorridors_11: 1289231846588564274
+      AddOnDecorCorridors_12: 4969314105700283303
+      AddOnDecorCorridors_13: -2766263319925517338
+      AddOnDecorCorridors_14: -5519907517613087483
+      AddOnDecorCorridors_15: 7679861515038526484
+      AddOnDecorCorridors_16: -381935732389114304
+      AddOnDecorCorridors_17: 3613372350737490225
+      AddOnDecorCorridors_18: -6249566205739270519
+      AddOnDecorCorridors_19: 1251403639772523408
+      AddOnDecorCorridors_2: -6055083326340592520
+      AddOnDecorCorridors_20: -363655952184095538
+      AddOnDecorCorridors_21: 2218196743228757465
+      AddOnDecorCorridors_22: -530294251486063607
+      AddOnDecorCorridors_23: -2662944503131091666
+      AddOnDecorCorridors_24: 8309095673488531397
+      AddOnDecorCorridors_25: 6923117219101397838
+      AddOnDecorCorridors_26: -3313510667940402571
+      AddOnDecorCorridors_27: 2297205022654558713
+      AddOnDecorCorridors_28: -5826798290614642209
+      AddOnDecorCorridors_29: 2114959155743317112
+      AddOnDecorCorridors_3: 8484959577710734209
+      AddOnDecorCorridors_30: 394127777841206805
+      AddOnDecorCorridors_31: -6833937042226576609
+      AddOnDecorCorridors_32: 8799625833469485912
+      AddOnDecorCorridors_33: 4336954035535806922
+      AddOnDecorCorridors_34: 8663091577050228270
+      AddOnDecorCorridors_35: 1271595681797773707
+      AddOnDecorCorridors_36: 4145231088311288970
+      AddOnDecorCorridors_37: -2048928815564936566
+      AddOnDecorCorridors_38: -1265024759
+      AddOnDecorCorridors_4: -6495153309163860667
+      AddOnDecorCorridors_5: 646240905308014532
+      AddOnDecorCorridors_6: 7921330910575305926
+      AddOnDecorCorridors_7: -1004539827383411886
+      AddOnDecorCorridors_8: 860308126849399116
+      AddOnDecorCorridors_9: -6790882709146968974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: d9907e457d2b4d443a6b0ab43fa656e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5136060939759708939
+    second: Sangue-removebg-preview_0
+  - first:
+      213: 5440214306001061739
+    second: Sangue-removebg-preview_1
+  - first:
+      213: -7767861494563704036
+    second: Sangue-removebg-preview_2
+  - first:
+      213: 8670321239700415300
+    second: Sangue-removebg-preview_3
+  - first:
+      213: 8975886321998329578
+    second: Sangue-removebg-preview_4
+  - first:
+      213: -6746236993364271771
+    second: Sangue-removebg-preview_5
+  - first:
+      213: 6581957238372739565
+    second: Sangue-removebg-preview_6
+  - first:
+      213: 2183423079392848510
+    second: Sangue-removebg-preview_7
+  - first:
+      213: -3107925997368166326
+    second: Sangue-removebg-preview_8
+  - first:
+      213: -5624426070209300373
+    second: Sangue-removebg-preview_9
+  - first:
+      213: -2209677177993144593
+    second: Sangue-removebg-preview_10
+  - first:
+      213: 2825086417075143724
+    second: Sangue-removebg-preview_11
+  - first:
+      213: 8096495764842956774
+    second: Sangue-removebg-preview_12
+  - first:
+      213: 6736313427931494576
+    second: Sangue-removebg-preview_13
+  - first:
+      213: -1828407890060433492
+    second: Sangue-removebg-preview_14
+  - first:
+      213: -1240929028631346605
+    second: Sangue-removebg-preview_15
+  - first:
+      213: 3190822114751206300
+    second: Sangue-removebg-preview_16
+  - first:
+      213: -5606190418937719207
+    second: Sangue-removebg-preview_17
+  - first:
+      213: -1670558995117999902
+    second: Sangue-removebg-preview_18
+  - first:
+      213: -5483032413917249258
+    second: Sangue-removebg-preview_19
+  - first:
+      213: -5349839071160269146
+    second: Sangue-removebg-preview_20
+  - first:
+      213: -7958454550918980879
+    second: Sangue-removebg-preview_21
+  - first:
+      213: 6655113244461278390
+    second: Sangue-removebg-preview_22
+  - first:
+      213: -548508706803934457
+    second: Sangue-removebg-preview_23
+  - first:
+      213: 5090333333465177129
+    second: Sangue-removebg-preview_24
+  - first:
+      213: -4563748757526915768
+    second: Sangue-removebg-preview_25
+  - first:
+      213: 8785064212771007908
+    second: Sangue-removebg-preview_26
+  - first:
+      213: -4936832840420556642
+    second: Sangue-removebg-preview_27
+  - first:
+      213: 3348360007537291057
+    second: Sangue-removebg-preview_28
+  - first:
+      213: -5469246221933597467
+    second: Sangue-removebg-preview_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f41ddc89cb09b8b0800000000000000
+      internalID: -5136060939759708939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 475
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67013b76168f7b40800000000000000
+      internalID: 5440214306001061739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 415
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1378186023033490800000000000000
+      internalID: -7767861494563704036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 412
+        width: 285
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4432edcea3b235870800000000000000
+      internalID: 8670321239700415300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 407
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67ff6bd01c09c70800000000000000
+      internalID: 8975886321998329578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 435
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d5ce7923d8062a0800000000000000
+      internalID: -6746236993364271771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 411
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9a4005c3fc75b50800000000000000
+      internalID: 6581957238372739565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 126
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa991f8b31d4e10800000000000000
+      internalID: 2183423079392848510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a483baa95cd6ed4d0800000000000000
+      internalID: -3107925997368166326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 308
+        width: 191
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687ab3e94602f1b0800000000000000
+      internalID: -5624426070209300373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 306
+        width: 190
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe65e616056a551e0800000000000000
+      internalID: -2209677177993144593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c248b8dd029b43720800000000000000
+      internalID: 2825086417075143724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74be440088c5070800000000000000
+      internalID: 8096495764842956774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8fc874f513c7d50800000000000000
+      internalID: 6736313427931494576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 263
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca72d6816b030a6e0800000000000000
+      internalID: -1828407890060433492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 188
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35245f88f9557cee0800000000000000
+      internalID: -1240929028631346605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 258
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d433cec3184c20800000000000000
+      internalID: 3190822114751206300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d400548fc232b0800000000000000
+      internalID: -5606190418937719207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e878a7e17bf0d8e0800000000000000
+      internalID: -1670558995117999902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118284e11b58e3b0800000000000000
+      internalID: -5483032413917249258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a68cfd95bd81c5b0800000000000000
+      internalID: -5349839071160269146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa126b60c3ed8190800000000000000
+      internalID: -7958454550918980879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ac1c4c36bb5c50800000000000000
+      internalID: 6655113244461278390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1ebebc3e4368f0800000000000000
+      internalID: -548508706803934457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 61
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c9581723f74a640800000000000000
+      internalID: 5090333333465177129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 37
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8455a7f4fae4aa0c0800000000000000
+      internalID: -4563748757526915768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad66333b51dae970800000000000000
+      internalID: 8785064212771007908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 38
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90004720b8dc7bb0800000000000000
+      internalID: -4936832840420556642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f626dbfa3c77e20800000000000000
+      internalID: 3348360007537291057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangue-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec2088d9855914b0800000000000000
+      internalID: -5469246221933597467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sangue-removebg-preview_0: -5136060939759708939
+      Sangue-removebg-preview_1: 5440214306001061739
+      Sangue-removebg-preview_10: -2209677177993144593
+      Sangue-removebg-preview_11: 2825086417075143724
+      Sangue-removebg-preview_12: 8096495764842956774
+      Sangue-removebg-preview_13: 6736313427931494576
+      Sangue-removebg-preview_14: -1828407890060433492
+      Sangue-removebg-preview_15: -1240929028631346605
+      Sangue-removebg-preview_16: 3190822114751206300
+      Sangue-removebg-preview_17: -5606190418937719207
+      Sangue-removebg-preview_18: -1670558995117999902
+      Sangue-removebg-preview_19: -5483032413917249258
+      Sangue-removebg-preview_2: -7767861494563704036
+      Sangue-removebg-preview_20: -5349839071160269146
+      Sangue-removebg-preview_21: -7958454550918980879
+      Sangue-removebg-preview_22: 6655113244461278390
+      Sangue-removebg-preview_23: -548508706803934457
+      Sangue-removebg-preview_24: 5090333333465177129
+      Sangue-removebg-preview_25: -4563748757526915768
+      Sangue-removebg-preview_26: 8785064212771007908
+      Sangue-removebg-preview_27: -4936832840420556642
+      Sangue-removebg-preview_28: 3348360007537291057
+      Sangue-removebg-preview_29: -5469246221933597467
+      Sangue-removebg-preview_3: 8670321239700415300
+      Sangue-removebg-preview_4: 8975886321998329578
+      Sangue-removebg-preview_5: -6746236993364271771
+      Sangue-removebg-preview_6: 6581957238372739565
+      Sangue-removebg-preview_7: 2183423079392848510
+      Sangue-removebg-preview_8: -3107925997368166326
+      Sangue-removebg-preview_9: -5624426070209300373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

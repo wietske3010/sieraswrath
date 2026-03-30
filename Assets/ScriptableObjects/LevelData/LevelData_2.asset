@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b8528cc1da87f442a2d4da4f59158fd, type: 3}
+  m_Name: LevelData_2
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelIndex: 2
+  levelName: Catacombs
+  sieraSpawnPointTag: SieraSpawn
+  levelExitTriggerTag: LevelExit
+  hiddenNPCSlotTags:
+  - HiddenNPC_R1
+  - HiddenNPC_R2
+  enemyTags:
+  - Enemy_1
+  - Enemy_2
+  - Enemy_3

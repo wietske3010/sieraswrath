@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: f7332a57c20a6f3479343f0322e743e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3856261253940791857
+    second: forestDecor_0
+  - first:
+      213: -6636437318597204482
+    second: forestDecor_1
+  - first:
+      213: 4310903643772480280
+    second: forestDecor_2
+  - first:
+      213: -2471645000105071176
+    second: forestDecor_3
+  - first:
+      213: -2859393970949147018
+    second: forestDecor_4
+  - first:
+      213: -7946948333497350795
+    second: forestDecor_5
+  - first:
+      213: 8580815562700273257
+    second: forestDecor_6
+  - first:
+      213: 5720241846595862352
+    second: forestDecor_7
+  - first:
+      213: 405459372697070590
+    second: forestDecor_8
+  - first:
+      213: -723582225946835047
+    second: forestDecor_9
+  - first:
+      213: 5933917022988283842
+    second: forestDecor_10
+  - first:
+      213: -8140778994910768118
+    second: forestDecor_11
+  - first:
+      213: 5195543706305222236
+    second: forestDecor_12
+  - first:
+      213: 2158411477589422723
+    second: forestDecor_13
+  - first:
+      213: 7688533962518214107
+    second: forestDecor_14
+  - first:
+      213: 6053304735001680702
+    second: forestDecor_15
+  - first:
+      213: -7308376256879060836
+    second: forestDecor_16
+  - first:
+      213: -3960182111956038612
+    second: forestDecor_17
+  - first:
+      213: 4882690384276084389
+    second: forestDecor_18
+  - first:
+      213: -532955736699654334
+    second: forestDecor_19
+  - first:
+      213: 4262063273161956381
+    second: forestDecor_20
+  - first:
+      213: -3062636220827060961
+    second: forestDecor_21
+  - first:
+      213: 5724764211493218674
+    second: forestDecor_22
+  - first:
+      213: -8914945781156238091
+    second: forestDecor_23
+  - first:
+      213: -4342522853945463884
+    second: forestDecor_24
+  - first:
+      213: -7538623793671639347
+    second: forestDecor_25
+  - first:
+      213: 8004334628304182581
+    second: forestDecor_26
+  - first:
+      213: -2006383496760692379
+    second: forestDecor_27
+  - first:
+      213: -8719804445866098107
+    second: forestDecor_28
+  - first:
+      213: 123870551872842323
+    second: forestDecor_29
+  - first:
+      213: -9179865095826771279
+    second: forestDecor_30
+  - first:
+      213: -8110980635101176552
+    second: forestDecor_31
+  - first:
+      213: -3101504249088776320
+    second: forestDecor_32
+  - first:
+      213: -7523246882617104398
+    second: forestDecor_33
+  - first:
+      213: 4079101317887927649
+    second: forestDecor_34
+  - first:
+      213: 8550378659399060693
+    second: forestDecor_35
+  - first:
+      213: -6978067564102618995
+    second: forestDecor_36
+  - first:
+      213: 3719114422327968764
+    second: forestDecor_37
+  - first:
+      213: -8176147164301123400
+    second: forestDecor_38
+  - first:
+      213: 6313018704317594572
+    second: forestDecor_39
+  - first:
+      213: -8600648212954932934
+    second: forestDecor_40
+  - first:
+      213: 8186915062960525128
+    second: forestDecor_41
+  - first:
+      213: 1060231567116575003
+    second: forestDecor_42
+  - first:
+      213: -1063959428991548813
+    second: forestDecor_43
+  - first:
+      213: 6431214984913473608
+    second: forestDecor_44
+  - first:
+      213: -7778605238829600953
+    second: forestDecor_45
+  - first:
+      213: -3561918701416119515
+    second: forestDecor_46
+  - first:
+      213: 2785553921240230182
+    second: forestDecor_47
+  - first:
+      213: 1326076160663238214
+    second: forestDecor_48
+  - first:
+      213: 4769770341830393632
+    second: forestDecor_49
+  - first:
+      213: -3146674481406122449
+    second: forestDecor_50
+  - first:
+      213: -6667187674272182985
+    second: forestDecor_51
+  - first:
+      213: -3489688869755249232
+    second: forestDecor_52
+  - first:
+      213: 588160257215661018
+    second: forestDecor_53
+  - first:
+      213: 4766428589509387218
+    second: forestDecor_54
+  - first:
+      213: -2439216693484532966
+    second: forestDecor_55
+  - first:
+      213: 2304453877026800149
+    second: forestDecor_56
+  - first:
+      213: 7048103678924773899
+    second: forestDecor_57
+  - first:
+      213: 2435968032515677428
+    second: forestDecor_58
+  - first:
+      213: 5885860013516797400
+    second: forestDecor_59
+  - first:
+      213: -4452667087903706108
+    second: forestDecor_60
+  - first:
+      213: 5186342716891337769
+    second: forestDecor_61
+  - first:
+      213: -4689408478933018501
+    second: forestDecor_62
+  - first:
+      213: -7510631805170827900
+    second: forestDecor_63
+  - first:
+      213: -929323374242222104
+    second: forestDecor_64
+  - first:
+      213: -8592800329273298043
+    second: forestDecor_65
+  - first:
+      213: -4440640858109706224
+    second: forestDecor_66
+  - first:
+      213: -2753896246012203435
+    second: forestDecor_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestDecor_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 876
+        width: 352
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b1c522decb7ac0800000000000000
+      internalID: -3856261253940791857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 753
+        width: 260
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef52eda8b63a6e3a0800000000000000
+      internalID: -6636437318597204482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1014
+        width: 258
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81beefb160863db30800000000000000
+      internalID: 4310903643772480280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1015
+        width: 200
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdedddb7f3f2bdd0800000000000000
+      internalID: -2471645000105071176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 993
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676bea845546158d0800000000000000
+      internalID: -2859393970949147018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_5
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 897
+        width: 648
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575028d6894c6b190800000000000000
+      internalID: -7946948333497350795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_6
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 980
+        width: 52
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b4e98a4e251770800000000000000
+      internalID: 8580815562700273257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_7
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 969
+        width: 176
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fbbaff6a1626f40800000000000000
+      internalID: 5720241846595862352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 933
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2678b62b70a500800000000000000
+      internalID: 405459372697070590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 951
+        width: 76
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99707a89cc155f5f0800000000000000
+      internalID: -723582225946835047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 816
+        width: 100
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf2cd9d712895250800000000000000
+      internalID: 5933917022988283842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 847
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d165c2a4260f80800000000000000
+      internalID: -8140778994910768118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_12
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 539
+        width: 432
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d65549774a1840800000000000000
+      internalID: 5195543706305222236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_13
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 784
+        width: 184
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f7d89dc734fd10800000000000000
+      internalID: 2158411477589422723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 811
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5bc6f37e823ba60800000000000000
+      internalID: 7688533962518214107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 701
+        width: 80
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b17fea598a10450800000000000000
+      internalID: 6053304735001680702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 811
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9813db048e639a90800000000000000
+      internalID: -7308376256879060836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_17
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 687
+        width: 480
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0103e95b9a09c0800000000000000
+      internalID: -3960182111956038612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_18
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 470
+        width: 380
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 111, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ddfee80dc2c340800000000000000
+      internalID: 4882690384276084389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_19
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 802
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa209c49f8a98f0800000000000000
+      internalID: -532955736699654334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 659
+        width: 24
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c9e0f27f3e52b30800000000000000
+      internalID: 4262063273161956381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 669
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15bb5d65945f75d0800000000000000
+      internalID: -3062636220827060961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 731
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792ce028b2727f40800000000000000
+      internalID: 5724764211493218674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_23
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 726
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca052ab00c74480800000000000000
+      internalID: -8914945781156238091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 696
+        width: 55
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba095d8724cb3c0800000000000000
+      internalID: -4342522853945463884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_25
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 388
+        width: 115
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcee4ead99d616790800000000000000
+      internalID: -7538623793671639347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 512
+        width: 155
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddd678feb151f60800000000000000
+      internalID: 8004334628304182581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 710
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617f5807d4e724e0800000000000000
+      internalID: -2006383496760692379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_28
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 584
+        width: 364
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54287455e080df680800000000000000
+      internalID: -8719804445866098107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 694
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a23825c9318b100800000000000000
+      internalID: 123870551872842323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 444
+        width: 140
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2fc3515519a9080800000000000000
+      internalID: -9179865095826771279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 573
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd8b01612007f80800000000000000
+      internalID: -8110980635101176552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 501
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e2b3615e35f4d0800000000000000
+      internalID: -3101504249088776320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_33
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 400
+        width: 48
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ea04f1de089790800000000000000
+      internalID: -7523246882617104398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_34
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 359
+        width: 256
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a98f5901eb9830800000000000000
+      internalID: 4079101317887927649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 276
+        width: 304
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dccf80c61c09a670800000000000000
+      internalID: 8550378659399060693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 350
+        width: 76
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80fcf6958ce82f90800000000000000
+      internalID: -6978067564102618995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 492
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf304e5ccd2fc9330800000000000000
+      internalID: 3719114422327968764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_38
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 267
+        width: 52
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a380297d788e80800000000000000
+      internalID: -8176147164301123400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_39
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 476
+        width: 232
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3f3350195c9750800000000000000
+      internalID: 6313018704317594572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 33
+        width: 594
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3919bcb40c54a880800000000000000
+      internalID: -8600648212954932934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_41
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 294
+        width: 263
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8e06afd3cd9170800000000000000
+      internalID: 8186915062960525128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_42
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 370
+        width: 117
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11a3a13ef2b6be00800000000000000
+      internalID: 1060231567116575003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_43
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 447
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720883598e0c31f0800000000000000
+      internalID: -1063959428991548813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_44
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 440
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840dfe964f3404950800000000000000
+      internalID: 6431214984913473608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_45
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 432
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa1938fb7dc0490800000000000000
+      internalID: -7778605238829600953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_46
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 206
+        width: 60
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523854b10d5819ec0800000000000000
+      internalID: -3561918701416119515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 418
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629683a688648a620800000000000000
+      internalID: 2785553921240230182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_48
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 374
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64632750e3b276210800000000000000
+      internalID: 1326076160663238214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_49
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 253
+        width: 68
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7ef4cad0a13240800000000000000
+      internalID: 4769770341830393632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2660002b34c454d0800000000000000
+      internalID: -3146674481406122449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_51
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 309
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dc42072246973a0800000000000000
+      internalID: -6667187674272182985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_52
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 332
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9a9d4672229fc0800000000000000
+      internalID: -3489688869755249232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_53
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 156
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3875243a0992800800000000000000
+      internalID: 588160257215661018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_54
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 33
+        width: 240
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d329fc6c81c52240800000000000000
+      internalID: 4766428589509387218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_55
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 186
+        width: 231
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc6ae3759262ed0800000000000000
+      internalID: -2439216693484532966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 207
+        width: 227
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512447577901bff10800000000000000
+      internalID: 2304453877026800149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_57
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 244
+        width: 131
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5f6a14f4efc160800000000000000
+      internalID: 7048103678924773899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_58
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 284
+        width: 243
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcdd4ee40c4ec120800000000000000
+      internalID: 2435968032515677428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 926
+        width: 66
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d538576f76cea150800000000000000
+      internalID: 5885860013516797400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 116
+        width: 251
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9241ebbf83799f740800000000000000
+      internalID: 5186342716891337769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_62
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 132
+        width: 224
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b781e7e75dfdbeeb0800000000000000
+      internalID: -4689408478933018501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_63
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 33
+        width: 296
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dba0e8a20e4c790800000000000000
+      internalID: -7510631805170827900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 35
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef23dc90516a13f0800000000000000
+      internalID: -929323374242222104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 35
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5833ecb80ad30c880800000000000000
+      internalID: -8592800329273298043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_66
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 33
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0100945caacaf52c0800000000000000
+      internalID: -4440640858109706224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestDecor_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 35
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e292c74f138c9d0800000000000000
+      internalID: -2753896246012203435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3245407b712985a4395941bba61f3836
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      forestDecor_0: -3856261253940791857
+      forestDecor_1: -6636437318597204482
+      forestDecor_10: 5933917022988283842
+      forestDecor_11: -8140778994910768118
+      forestDecor_12: 5195543706305222236
+      forestDecor_13: 2158411477589422723
+      forestDecor_14: 7688533962518214107
+      forestDecor_15: 6053304735001680702
+      forestDecor_16: -7308376256879060836
+      forestDecor_17: -3960182111956038612
+      forestDecor_18: 4882690384276084389
+      forestDecor_19: -532955736699654334
+      forestDecor_2: 4310903643772480280
+      forestDecor_20: 4262063273161956381
+      forestDecor_21: -3062636220827060961
+      forestDecor_22: 5724764211493218674
+      forestDecor_23: -8914945781156238091
+      forestDecor_24: -4342522853945463884
+      forestDecor_25: -7538623793671639347
+      forestDecor_26: 8004334628304182581
+      forestDecor_27: -2006383496760692379
+      forestDecor_28: -8719804445866098107
+      forestDecor_29: 123870551872842323
+      forestDecor_3: -2471645000105071176
+      forestDecor_30: -9179865095826771279
+      forestDecor_31: -8110980635101176552
+      forestDecor_32: -3101504249088776320
+      forestDecor_33: -7523246882617104398
+      forestDecor_34: 4079101317887927649
+      forestDecor_35: 8550378659399060693
+      forestDecor_36: -6978067564102618995
+      forestDecor_37: 3719114422327968764
+      forestDecor_38: -8176147164301123400
+      forestDecor_39: 6313018704317594572
+      forestDecor_4: -2859393970949147018
+      forestDecor_40: -8600648212954932934
+      forestDecor_41: 8186915062960525128
+      forestDecor_42: 1060231567116575003
+      forestDecor_43: -1063959428991548813
+      forestDecor_44: 6431214984913473608
+      forestDecor_45: -7778605238829600953
+      forestDecor_46: -3561918701416119515
+      forestDecor_47: 2785553921240230182
+      forestDecor_48: 1326076160663238214
+      forestDecor_49: 4769770341830393632
+      forestDecor_5: -7946948333497350795
+      forestDecor_50: -3146674481406122449
+      forestDecor_51: -6667187674272182985
+      forestDecor_52: -3489688869755249232
+      forestDecor_53: 588160257215661018
+      forestDecor_54: 4766428589509387218
+      forestDecor_55: -2439216693484532966
+      forestDecor_56: 2304453877026800149
+      forestDecor_57: 7048103678924773899
+      forestDecor_58: 2435968032515677428
+      forestDecor_59: 5885860013516797400
+      forestDecor_6: 8580815562700273257
+      forestDecor_60: -4452667087903706108
+      forestDecor_61: 5186342716891337769
+      forestDecor_62: -4689408478933018501
+      forestDecor_63: -7510631805170827900
+      forestDecor_64: -929323374242222104
+      forestDecor_65: -8592800329273298043
+      forestDecor_66: -4440640858109706224
+      forestDecor_67: -2753896246012203435
+      forestDecor_7: 5720241846595862352
+      forestDecor_8: 405459372697070590
+      forestDecor_9: -723582225946835047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

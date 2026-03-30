@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 163ae782f121ef640a9b3daed244b9cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3965757446900453431
+    second: Ember_Flame_0
+  - first:
+      213: -9021413940883735536
+    second: Ember_Flame_1
+  - first:
+      213: -4413748209404147689
+    second: Ember_Flame_2
+  - first:
+      213: 6989119342494805634
+    second: Ember_Flame_3
+  - first:
+      213: -8941139546144172072
+    second: Ember_Flame_4
+  - first:
+      213: -228936500138711643
+    second: Ember_Flame_5
+  - first:
+      213: 7740666781086368343
+    second: Ember_Flame_6
+  - first:
+      213: -7609167026254697308
+    second: Ember_Flame_7
+  - first:
+      213: -3464589466246357857
+    second: Ember_Flame_8
+  - first:
+      213: 125642133878302812
+    second: Ember_Flame_9
+  - first:
+      213: -2344197689964198508
+    second: Ember_Flame_10
+  - first:
+      213: -8758808643012734353
+    second: Ember_Flame_11
+  - first:
+      213: 7038787714873087314
+    second: Ember_Flame_12
+  - first:
+      213: 4829017838175220183
+    second: Ember_Flame_13
+  - first:
+      213: -4245171607375582686
+    second: Ember_Flame_14
+  - first:
+      213: 3595544110899973234
+    second: Ember_Flame_15
+  - first:
+      213: -7712967811232778903
+    second: Ember_Flame_16
+  - first:
+      213: 5507366928436231718
+    second: Ember_Flame_17
+  - first:
+      213: -5088784133351415995
+    second: Ember_Flame_18
+  - first:
+      213: 7664853149219981012
+    second: Ember_Flame_19
+  - first:
+      213: 4108540482578187507
+    second: Ember_Flame_20
+  - first:
+      213: -6014652898859721595
+    second: Ember_Flame_21
+  - first:
+      213: 1694230590712207614
+    second: Ember_Flame_22
+  - first:
+      213: 2596684111173210688
+    second: Ember_Flame_23
+  - first:
+      213: 6877080831965947727
+    second: Ember_Flame_24
+  - first:
+      213: 4273688001837985173
+    second: Ember_Flame_25
+  - first:
+      213: -4451826802309417506
+    second: Ember_Flame_26
+  - first:
+      213: -5879542663269158729
+    second: Ember_Flame_27
+  - first:
+      213: -4058767575049872164
+    second: Ember_Flame_28
+  - first:
+      213: -6524954219926417863
+    second: Ember_Flame_29
+  - first:
+      213: 3493373854639397002
+    second: Ember_Flame_30
+  - first:
+      213: -8735678146532109954
+    second: Ember_Flame_31
+  - first:
+      213: 5825730273291472412
+    second: Ember_Flame_32
+  - first:
+      213: 1322400691709427321
+    second: Ember_Flame_33
+  - first:
+      213: 7345187712485169172
+    second: Ember_Flame_34
+  - first:
+      213: -857400339393464283
+    second: Ember_Flame_35
+  - first:
+      213: 1735456997962122269
+    second: Ember_Flame_36
+  - first:
+      213: -4077700176386635337
+    second: Ember_Flame_37
+  - first:
+      213: -6204649079485265085
+    second: Ember_Flame_38
+  - first:
+      213: 3165095209856026793
+    second: Ember_Flame_39
+  - first:
+      213: 3340845969042865865
+    second: Ember_Flame_40
+  - first:
+      213: -3416692541869935647
+    second: Ember_Flame_41
+  - first:
+      213: 731881200235110109
+    second: Ember_Flame_42
+  - first:
+      213: 6914765841130354333
+    second: Ember_Flame_43
+  - first:
+      213: 1551116905420806154
+    second: Ember_Flame_44
+  - first:
+      213: 3845852544796869773
+    second: Ember_Flame_45
+  - first:
+      213: 9146297562091390904
+    second: Ember_Flame_46
+  - first:
+      213: -6858599296250836998
+    second: Ember_Flame_47
+  - first:
+      213: 5166900942686299046
+    second: Ember_Flame_48
+  - first:
+      213: 5689531610874304912
+    second: Ember_Flame_49
+  - first:
+      213: -7059245031591623617
+    second: Ember_Flame_50
+  - first:
+      213: -2152261048334229552
+    second: Ember_Flame_51
+  - first:
+      213: -1426685314000808792
+    second: Ember_Flame_52
+  - first:
+      213: -3546601732476625246
+    second: Ember_Flame_53
+  - first:
+      213: 9004326288138082944
+    second: Ember_Flame_54
+  - first:
+      213: 3230784473728921283
+    second: Ember_Flame_55
+  - first:
+      213: -1578848877292693974
+    second: Ember_Flame_56
+  - first:
+      213: -8348189704181978650
+    second: Ember_Flame_57
+  - first:
+      213: 7240135827140904393
+    second: Ember_Flame_58
+  - first:
+      213: 6334668723369110572
+    second: Ember_Flame_59
+  - first:
+      213: -1116340296201162465
+    second: Ember_Flame_60
+  - first:
+      213: -4361069579114330960
+    second: Ember_Flame_61
+  - first:
+      213: -2925560469950010559
+    second: Ember_Flame_62
+  - first:
+      213: 5903378047425163810
+    second: Ember_Flame_63
+  - first:
+      213: -1526348388502391282
+    second: Ember_Flame_64
+  - first:
+      213: -6103222213543512884
+    second: Ember_Flame_65
+  - first:
+      213: -1246902277497880647
+    second: Ember_Flame_66
+  - first:
+      213: -1883097151698803583
+    second: Ember_Flame_67
+  - first:
+      213: -5910971363002420470
+    second: Ember_Flame_68
+  - first:
+      213: 8825689443429630206
+    second: Ember_Flame_69
+  - first:
+      213: -7891761385730200565
+    second: Ember_Flame_70
+  - first:
+      213: 476814381369671402
+    second: Ember_Flame_71
+  - first:
+      213: -6585046052154320148
+    second: Ember_Flame_72
+  - first:
+      213: 882512696029077174
+    second: Ember_Flame_73
+  - first:
+      213: -9187935233405725948
+    second: Ember_Flame_74
+  - first:
+      213: 5882311861928099886
+    second: Ember_Flame_75
+  - first:
+      213: -3672152264928549279
+    second: Ember_Flame_76
+  - first:
+      213: 2990744050682674080
+    second: Ember_Flame_77
+  - first:
+      213: 8022384699255431994
+    second: Ember_Flame_78
+  - first:
+      213: 166893369900140293
+    second: Ember_Flame_79
+  - first:
+      213: -1483086561885688754
+    second: Ember_Flame_80
+  - first:
+      213: -9180523469871887771
+    second: Ember_Flame_81
+  - first:
+      213: 8979551769407376029
+    second: Ember_Flame_82
+  - first:
+      213: 8255139110964094182
+    second: Ember_Flame_83
+  - first:
+      213: -6905082552862706488
+    second: Ember_Flame_84
+  - first:
+      213: 297359845495924671
+    second: Ember_Flame_85
+  - first:
+      213: 8466459442318584350
+    second: Ember_Flame_86
+  - first:
+      213: 1312365924141518615
+    second: Ember_Flame_87
+  - first:
+      213: -2145346497911344941
+    second: Ember_Flame_88
+  - first:
+      213: 1888356419940891825
+    second: Ember_Flame_89
+  - first:
+      213: -7799409602107910275
+    second: Ember_Flame_90
+  - first:
+      213: 211177209981777995
+    second: Ember_Flame_91
+  - first:
+      213: -4663066691506047103
+    second: Ember_Flame_92
+  - first:
+      213: 7396071924442155635
+    second: Ember_Flame_93
+  - first:
+      213: 9157337736444953638
+    second: Ember_Flame_94
+  - first:
+      213: 6189438127756550550
+    second: Ember_Flame_95
+  - first:
+      213: -7011492350123942105
+    second: Ember_Flame_96
+  - first:
+      213: -2931838310152757380
+    second: Ember_Flame_97
+  - first:
+      213: 642802941238284983
+    second: Ember_Flame_98
+  - first:
+      213: 7639430394295627270
+    second: Ember_Flame_99
+  - first:
+      213: -7338036775419158153
+    second: Ember_Flame_100
+  - first:
+      213: 7719696643125810172
+    second: Ember_Flame_101
+  - first:
+      213: -4005253254035358109
+    second: Ember_Flame_102
+  - first:
+      213: -8762153554504784521
+    second: Ember_Flame_103
+  - first:
+      213: 6129711177082080488
+    second: Ember_Flame_104
+  - first:
+      213: 1769106860905790368
+    second: Ember_Flame_105
+  - first:
+      213: 1216450740126971855
+    second: Ember_Flame_106
+  - first:
+      213: 3053726993121403580
+    second: Ember_Flame_107
+  - first:
+      213: -4167211724805621163
+    second: Ember_Flame_108
+  - first:
+      213: -6468494221284493553
+    second: Ember_Flame_109
+  - first:
+      213: -8593538103547754396
+    second: Ember_Flame_110
+  - first:
+      213: 8518785390544779501
+    second: Ember_Flame_111
+  - first:
+      213: -3424826399957376216
+    second: Ember_Flame_112
+  - first:
+      213: -5672020867262195310
+    second: Ember_Flame_113
+  - first:
+      213: 1639222617157126249
+    second: Ember_Flame_114
+  - first:
+      213: -95867971938133509
+    second: Ember_Flame_115
+  - first:
+      213: -2709063028792655632
+    second: Ember_Flame_116
+  - first:
+      213: -5310909584666735636
+    second: Ember_Flame_117
+  - first:
+      213: 988824036936719305
+    second: Ember_Flame_118
+  - first:
+      213: 4366517564677487314
+    second: Ember_Flame_119
+  - first:
+      213: -1900889232903502065
+    second: Ember_Flame_120
+  - first:
+      213: -1875341021930048761
+    second: Ember_Flame_121
+  - first:
+      213: 5653919609898774886
+    second: Ember_Flame_122
+  - first:
+      213: -1147600605503988080
+    second: Ember_Flame_123
+  - first:
+      213: -3326006452091841918
+    second: Ember_Flame_124
+  - first:
+      213: -4996257697683182313
+    second: Ember_Flame_125
+  - first:
+      213: 355518050706989752
+    second: Ember_Flame_126
+  - first:
+      213: -3863685981851671868
+    second: Ember_Flame_127
+  - first:
+      213: 7738846645987629670
+    second: Ember_Flame_128
+  - first:
+      213: -8312511989298270326
+    second: Ember_Flame_129
+  - first:
+      213: -667221834273611979
+    second: Ember_Flame_130
+  - first:
+      213: 8081155849680594540
+    second: Ember_Flame_131
+  - first:
+      213: -1476665439580379502
+    second: Ember_Flame_132
+  - first:
+      213: -8960204297191704010
+    second: Ember_Flame_133
+  - first:
+      213: -3900005064684964082
+    second: Ember_Flame_134
+  - first:
+      213: -25233867505795567
+    second: Ember_Flame_135
+  - first:
+      213: -4315262813537422480
+    second: Ember_Flame_136
+  - first:
+      213: 4612579193091950044
+    second: Ember_Flame_137
+  - first:
+      213: -4060652444687840478
+    second: Ember_Flame_138
+  - first:
+      213: 2942760188787308156
+    second: Ember_Flame_139
+  - first:
+      213: -8847413081959648480
+    second: Ember_Flame_140
+  - first:
+      213: -5251352298273397231
+    second: Ember_Flame_141
+  - first:
+      213: -1270622186985670340
+    second: Ember_Flame_142
+  - first:
+      213: -1482564824118298247
+    second: Ember_Flame_143
+  - first:
+      213: -7188264414275879269
+    second: Ember_Flame_144
+  - first:
+      213: 5457208547757530293
+    second: Ember_Flame_145
+  - first:
+      213: -4048745599615014454
+    second: Ember_Flame_146
+  - first:
+      213: -3778817747446272198
+    second: Ember_Flame_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ember_Flame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 755
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 119, y: 37, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf63201d9cc6f8c0800000000000000
+      internalID: -3965757446900453431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 484
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3ed971df7dc280800000000000000
+      internalID: -9021413940883735536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 310
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718037a73673fb2c0800000000000000
+      internalID: -4413748209404147689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ee63613075ef060800000000000000
+      internalID: 6989119342494805634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 219
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d711e874f0bae380800000000000000
+      internalID: -8941139546144172072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56c115777a2dcf0800000000000000
+      internalID: -228936500138711643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c153fc6f5c6b60800000000000000
+      internalID: 7740666781086368343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 175
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac297b97eec66690800000000000000
+      internalID: -7609167026254697308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c53d39c3e4befc0800000000000000
+      internalID: -3464589466246357857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 456
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5863a6eade5eb100800000000000000
+      internalID: 125642133878302812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495846efe9cb77fd0800000000000000
+      internalID: -2344197689964198508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62da9102f5727680800000000000000
+      internalID: -8758808643012734353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d462322ccea160800000000000000
+      internalID: 7038787714873087314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1757a732e140340800000000000000
+      internalID: 4829017838175220183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 654
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aedcb3aee1615c0800000000000000
+      internalID: -4245171607375582686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 630
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cc070a150f5e130800000000000000
+      internalID: 3595544110899973234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b27704a806f490800000000000000
+      internalID: -7712967811232778903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 580
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62efc29ca091e6c40800000000000000
+      internalID: 5507366928436231718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 558
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fd1f0dac10169b0800000000000000
+      internalID: -5088784133351415995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d68ace34570f5a60800000000000000
+      internalID: 7664853149219981012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 518
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f482690dc7740930800000000000000
+      internalID: 4108540482578187507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c51343e09a78ca0800000000000000
+      internalID: -6014652898859721595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 504
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8500feebd138710800000000000000
+      internalID: 1694230590712207614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0425168f076490420800000000000000
+      internalID: 2596684111173210688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 448
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476af0949c407f50800000000000000
+      internalID: 6877080831965947727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de66e38903f4b30800000000000000
+      internalID: 4273688001837985173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 390
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b8ce2c1fe732c0800000000000000
+      internalID: -4451826802309417506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07612591ba76ea0800000000000000
+      internalID: -5879542663269158729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 368
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc574f056c5ca7c0800000000000000
+      internalID: -4058767575049872164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e899925b4b275a0800000000000000
+      internalID: -6524954219926417863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 296
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a881b691305fa7030800000000000000
+      internalID: 3493373854639397002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719fc36203a4c680800000000000000
+      internalID: -8735678146532109954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e07c841d629d050800000000000000
+      internalID: 5825730273291472412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e32183c6c1a5210800000000000000
+      internalID: 1322400691709427321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181e3bde495fe560800000000000000
+      internalID: 7345187712485169172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 231
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528372c1fe6e914f0800000000000000
+      internalID: -857400339393464283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 166
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148f7ed1f4951810800000000000000
+      internalID: 1735456997962122269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 838
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94ded4b491967c0800000000000000
+      internalID: -4077700176386635337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b835d2988a4e9a0800000000000000
+      internalID: -6204649079485265085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a842cfe25daceb20800000000000000
+      internalID: 3165095209856026793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 526
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce781255b11d5e20800000000000000
+      internalID: 3340845969042865865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 416
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3bd1f4c387590d0800000000000000
+      internalID: -3416692541869935647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 406
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddedccde21a282a00800000000000000
+      internalID: 731881200235110109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96749185ee26ff50800000000000000
+      internalID: 6914765841130354333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08d5b87b9ca68510800000000000000
+      internalID: 1551116905420806154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 124
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84462763863f5530800000000000000
+      internalID: 3845852544796869773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b78a7e6c2d2eee70800000000000000
+      internalID: 9146297562091390904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 29
+        width: 638
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7893a474c51d0a0800000000000000
+      internalID: -6858599296250836998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_48
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3a27e280584b740800000000000000
+      internalID: 5166900942686299046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d48c0bd645fe40800000000000000
+      internalID: 5689531610874304912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 636
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f344a859b06880e90800000000000000
+      internalID: -7059245031591623617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 651
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfd02ecaf1a122e0800000000000000
+      internalID: -2152261048334229552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a417bc0445633ce0800000000000000
+      internalID: -1426685314000808792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_53
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 664
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae12f7d380f7cec0800000000000000
+      internalID: -3546601732476625246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_54
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 656
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9e265d0bc5fc70800000000000000
+      internalID: 9004326288138082944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 647
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cea5768c5d06dc20800000000000000
+      internalID: 3230784473728921283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d1faaf4dc61ae0800000000000000
+      internalID: -1578848877292693974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_57
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 296
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e8a4d1b5452c80800000000000000
+      internalID: -8348189704181978650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50056cc212a7460800000000000000
+      internalID: 7240135827140904393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_59
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 960
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c613234a349e750800000000000000
+      internalID: 6334668723369110572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_60
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 944
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b97c4a66f180f0800000000000000
+      internalID: -1116340296201162465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_61
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 896
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4c020e25e5a73c0800000000000000
+      internalID: -4361069579114330960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_62
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 858
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b64bbb0425667d0800000000000000
+      internalID: -2925560469950010559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_63
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 792
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222bd938e030de150800000000000000
+      internalID: 5903378047425163810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_64
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 778
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0633d34a3251dae0800000000000000
+      internalID: -1526348388502391282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_65
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 768
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43778abbffc4ba0800000000000000
+      internalID: -6103222213543512884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 758
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bffc182cfc12bee0800000000000000
+      internalID: -1246902277497880647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_67
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 752
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184617b1e15edd5e0800000000000000
+      internalID: -1883097151698803583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_68
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 743
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03fbbeecd208fda0800000000000000
+      internalID: -5910971363002420470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_69
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 734
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c98dc9c52b7a70800000000000000
+      internalID: 8825689443429630206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 726
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c286ff4d4da7290800000000000000
+      internalID: -7891761385730200565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_71
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 702
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3651572cfd9600800000000000000
+      internalID: 476814381369671402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_72
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 671
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead0cf21873d94a0800000000000000
+      internalID: -6585046052154320148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_73
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 664
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed59c0f905f3c00800000000000000
+      internalID: 882512696029077174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_74
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 656
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035e81c595ed7080800000000000000
+      internalID: -9187935233405725948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_75
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 648
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e208a4cf87b22a150800000000000000
+      internalID: 5882311861928099886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_76
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 627
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166a9cf88f4e90dc0800000000000000
+      internalID: -3672152264928549279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_77
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 616
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abbd035ed1418920800000000000000
+      internalID: 2990744050682674080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_78
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 584
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3326aa216c355f60800000000000000
+      internalID: 8022384699255431994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_79
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 576
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507044cb2ace05200800000000000000
+      internalID: 166893369900140293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_80
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 544
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce5a331a40b6be0800000000000000
+      internalID: -1483086561885688754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_81
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a462e6b8a389080800000000000000
+      internalID: -9180523469871887771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_82
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 528
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac1c132c6cd9c70800000000000000
+      internalID: 8979551769407376029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_83
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 490
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e278a845209270800000000000000
+      internalID: 8255139110964094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_84
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 456
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4fedbb0083c20a0800000000000000
+      internalID: -6905082552862706488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_85
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 447
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ef39343f602400800000000000000
+      internalID: 297359845495924671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_86
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 440
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa6ac6108ee7570800000000000000
+      internalID: 8466459442318584350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_87
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 426
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f48c3dad5763210800000000000000
+      internalID: 1312365924141518615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_88
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 418
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bdd70ab23a32e0800000000000000
+      internalID: -2145346497911344941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_89
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 392
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb7e3b82ac43a10800000000000000
+      internalID: 1888356419940891825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_90
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 384
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7756983a4ee2c390800000000000000
+      internalID: -7799409602107910275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_91
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 336
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b483f99bd804ee200800000000000000
+      internalID: 211177209981777995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_92
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 320
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18773d0dc85794fb0800000000000000
+      internalID: -4663066691506047103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_93
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 304
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a4d9daa3024a660800000000000000
+      internalID: 7396071924442155635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_94
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624c4155726651f70800000000000000
+      internalID: 9157337736444953638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_95
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69120342f2d45e550800000000000000
+      internalID: 6189438127756550550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_96
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 198
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f5e752bdc22be90800000000000000
+      internalID: -7011492350123942105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_97
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 184
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f967827940057d0800000000000000
+      internalID: -2931838310152757380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_98
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2951d8ed1bbe800800000000000000
+      internalID: 642802941238284983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_99
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e205ad775b40a60800000000000000
+      internalID: 7639430394295627270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_100
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 96
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771636c6e6e0a2a90800000000000000
+      internalID: -7338036775419158153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_101
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf31a4b323fd12b60800000000000000
+      internalID: 7719696643125810172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_102
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebebdd26b7a68c0800000000000000
+      internalID: -4005253254035358109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_103
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e05c14c3966680800000000000000
+      internalID: -8762153554504784521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_104
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec08b5c6db111550800000000000000
+      internalID: 6129711177082080488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_105
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 842
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfefd11512d8810800000000000000
+      internalID: 1769106860905790368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_106
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 713
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7770cc083b1e010800000000000000
+      internalID: 1216450740126971855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_107
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e50a5584016a20800000000000000
+      internalID: 3053726993121403580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_108
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 560
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3e1fd3071b26c0800000000000000
+      internalID: -4167211724805621163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_109
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 514
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07bbacf6ca4b36a0800000000000000
+      internalID: -6468494221284493553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_110
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 507
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468804610ae9db880800000000000000
+      internalID: -8593538103547754396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_111
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 433
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de87531ad2ec83670800000000000000
+      internalID: 8518785390544779501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_112
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 376
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232925e8829870d0800000000000000
+      internalID: -3424826399957376216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_113
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299db38a21fe841b0800000000000000
+      internalID: -5672020867262195310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_114
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 344
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cf6b0940bfb610800000000000000
+      internalID: 1639222617157126249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_115
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95a4366986baef0800000000000000
+      internalID: -95867971938133509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_116
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 280
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08bae4789776ad0800000000000000
+      internalID: -2709063028792655632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_117
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc8b30fdbdb46b0800000000000000
+      internalID: -5310909584666735636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_118
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 645
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1bfaf83209bd00800000000000000
+      internalID: 988824036936719305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_119
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafa1c179cf89c30800000000000000
+      internalID: 4366517564677487314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_120
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f070c63605fae95e0800000000000000
+      internalID: -1900889232903502065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_121
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 439
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703342bc64379f5e0800000000000000
+      internalID: -1875341021930048761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_122
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 799
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b1a0fde1c67e40800000000000000
+      internalID: 5653919609898774886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_123
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 768
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e59ec5457e210f0800000000000000
+      internalID: -1147600605503988080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_124
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 759
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829866f0c6a7d1d0800000000000000
+      internalID: -3326006452091841918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_125
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 735
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6843681ab9aab0800000000000000
+      internalID: -4996257697683182313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_126
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b221a398cd0fe400800000000000000
+      internalID: 355518050706989752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_127
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 719
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22318f11e616ac0800000000000000
+      internalID: -3863685981851671868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_128
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 703
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad059b508e56b60800000000000000
+      internalID: 7738846645987629670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_129
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f63b6236604ac80800000000000000
+      internalID: -8312511989298270326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_130
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f9cbdd64d8db6f0800000000000000
+      internalID: -667221834273611979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_131
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6628c2fd68062070800000000000000
+      internalID: 8081155849680594540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_132
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29627bd3b94d18be0800000000000000
+      internalID: -1476665439580379502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_133
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 483
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab5f63aa5f6a380800000000000000
+      internalID: -8960204297191704010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_134
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 299
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e077a398e0660e9c0800000000000000
+      internalID: -3900005064684964082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_135
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef1036ee956aff0800000000000000
+      internalID: -25233867505795567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_136
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07336a6955b1d14c0800000000000000
+      internalID: -4315262813537422480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_137
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58a9e665c230040800000000000000
+      internalID: 4612579193091950044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_138
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 477
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4f06ad1aa5a7c0800000000000000
+      internalID: -4060652444687840478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_139
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 706
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7634dfdcc8c6d820800000000000000
+      internalID: 2942760188787308156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_140
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 520
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b6a47daca73580800000000000000
+      internalID: -8847413081959648480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_141
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 427
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116abf658e27f17b0800000000000000
+      internalID: -5251352298273397231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_142
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393dfc5ad7dd5ee0800000000000000
+      internalID: -1270622186985670340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_143
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97970fdb52fdc6be0800000000000000
+      internalID: -1482564824118298247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_144
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 554
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e318ba9972e3c90800000000000000
+      internalID: -7188264414275879269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_145
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 546
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc105ab246ebbb40800000000000000
+      internalID: 5457208547757530293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_146
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 538
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9650d0457ffc7c0800000000000000
+      internalID: -4048745599615014454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ember_Flame_147
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fe58c9741fe8bc0800000000000000
+      internalID: -3778817747446272198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5021a965fce94244399f3edb8671ab63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ember_Flame_0: -3965757446900453431
+      Ember_Flame_1: -9021413940883735536
+      Ember_Flame_10: -2344197689964198508
+      Ember_Flame_100: -7338036775419158153
+      Ember_Flame_101: 7719696643125810172
+      Ember_Flame_102: -4005253254035358109
+      Ember_Flame_103: -8762153554504784521
+      Ember_Flame_104: 6129711177082080488
+      Ember_Flame_105: 1769106860905790368
+      Ember_Flame_106: 1216450740126971855
+      Ember_Flame_107: 3053726993121403580
+      Ember_Flame_108: -4167211724805621163
+      Ember_Flame_109: -6468494221284493553
+      Ember_Flame_11: -8758808643012734353
+      Ember_Flame_110: -8593538103547754396
+      Ember_Flame_111: 8518785390544779501
+      Ember_Flame_112: -3424826399957376216
+      Ember_Flame_113: -5672020867262195310
+      Ember_Flame_114: 1639222617157126249
+      Ember_Flame_115: -95867971938133509
+      Ember_Flame_116: -2709063028792655632
+      Ember_Flame_117: -5310909584666735636
+      Ember_Flame_118: 988824036936719305
+      Ember_Flame_119: 4366517564677487314
+      Ember_Flame_12: 7038787714873087314
+      Ember_Flame_120: -1900889232903502065
+      Ember_Flame_121: -1875341021930048761
+      Ember_Flame_122: 5653919609898774886
+      Ember_Flame_123: -1147600605503988080
+      Ember_Flame_124: -3326006452091841918
+      Ember_Flame_125: -4996257697683182313
+      Ember_Flame_126: 355518050706989752
+      Ember_Flame_127: -3863685981851671868
+      Ember_Flame_128: 7738846645987629670
+      Ember_Flame_129: -8312511989298270326
+      Ember_Flame_13: 4829017838175220183
+      Ember_Flame_130: -667221834273611979
+      Ember_Flame_131: 8081155849680594540
+      Ember_Flame_132: -1476665439580379502
+      Ember_Flame_133: -8960204297191704010
+      Ember_Flame_134: -3900005064684964082
+      Ember_Flame_135: -25233867505795567
+      Ember_Flame_136: -4315262813537422480
+      Ember_Flame_137: 4612579193091950044
+      Ember_Flame_138: -4060652444687840478
+      Ember_Flame_139: 2942760188787308156
+      Ember_Flame_14: -4245171607375582686
+      Ember_Flame_140: -8847413081959648480
+      Ember_Flame_141: -5251352298273397231
+      Ember_Flame_142: -1270622186985670340
+      Ember_Flame_143: -1482564824118298247
+      Ember_Flame_144: -7188264414275879269
+      Ember_Flame_145: 5457208547757530293
+      Ember_Flame_146: -4048745599615014454
+      Ember_Flame_147: -3778817747446272198
+      Ember_Flame_15: 3595544110899973234
+      Ember_Flame_16: -7712967811232778903
+      Ember_Flame_17: 5507366928436231718
+      Ember_Flame_18: -5088784133351415995
+      Ember_Flame_19: 7664853149219981012
+      Ember_Flame_2: -4413748209404147689
+      Ember_Flame_20: 4108540482578187507
+      Ember_Flame_21: -6014652898859721595
+      Ember_Flame_22: 1694230590712207614
+      Ember_Flame_23: 2596684111173210688
+      Ember_Flame_24: 6877080831965947727
+      Ember_Flame_25: 4273688001837985173
+      Ember_Flame_26: -4451826802309417506
+      Ember_Flame_27: -5879542663269158729
+      Ember_Flame_28: -4058767575049872164
+      Ember_Flame_29: -6524954219926417863
+      Ember_Flame_3: 6989119342494805634
+      Ember_Flame_30: 3493373854639397002
+      Ember_Flame_31: -8735678146532109954
+      Ember_Flame_32: 5825730273291472412
+      Ember_Flame_33: 1322400691709427321
+      Ember_Flame_34: 7345187712485169172
+      Ember_Flame_35: -857400339393464283
+      Ember_Flame_36: 1735456997962122269
+      Ember_Flame_37: -4077700176386635337
+      Ember_Flame_38: -6204649079485265085
+      Ember_Flame_39: 3165095209856026793
+      Ember_Flame_4: -8941139546144172072
+      Ember_Flame_40: 3340845969042865865
+      Ember_Flame_41: -3416692541869935647
+      Ember_Flame_42: 731881200235110109
+      Ember_Flame_43: 6914765841130354333
+      Ember_Flame_44: 1551116905420806154
+      Ember_Flame_45: 3845852544796869773
+      Ember_Flame_46: 9146297562091390904
+      Ember_Flame_47: -6858599296250836998
+      Ember_Flame_48: 5166900942686299046
+      Ember_Flame_49: 5689531610874304912
+      Ember_Flame_5: -228936500138711643
+      Ember_Flame_50: -7059245031591623617
+      Ember_Flame_51: -2152261048334229552
+      Ember_Flame_52: -1426685314000808792
+      Ember_Flame_53: -3546601732476625246
+      Ember_Flame_54: 9004326288138082944
+      Ember_Flame_55: 3230784473728921283
+      Ember_Flame_56: -1578848877292693974
+      Ember_Flame_57: -8348189704181978650
+      Ember_Flame_58: 7240135827140904393
+      Ember_Flame_59: 6334668723369110572
+      Ember_Flame_6: 7740666781086368343
+      Ember_Flame_60: -1116340296201162465
+      Ember_Flame_61: -4361069579114330960
+      Ember_Flame_62: -2925560469950010559
+      Ember_Flame_63: 5903378047425163810
+      Ember_Flame_64: -1526348388502391282
+      Ember_Flame_65: -6103222213543512884
+      Ember_Flame_66: -1246902277497880647
+      Ember_Flame_67: -1883097151698803583
+      Ember_Flame_68: -5910971363002420470
+      Ember_Flame_69: 8825689443429630206
+      Ember_Flame_7: -7609167026254697308
+      Ember_Flame_70: -7891761385730200565
+      Ember_Flame_71: 476814381369671402
+      Ember_Flame_72: -6585046052154320148
+      Ember_Flame_73: 882512696029077174
+      Ember_Flame_74: -9187935233405725948
+      Ember_Flame_75: 5882311861928099886
+      Ember_Flame_76: -3672152264928549279
+      Ember_Flame_77: 2990744050682674080
+      Ember_Flame_78: 8022384699255431994
+      Ember_Flame_79: 166893369900140293
+      Ember_Flame_8: -3464589466246357857
+      Ember_Flame_80: -1483086561885688754
+      Ember_Flame_81: -9180523469871887771
+      Ember_Flame_82: 8979551769407376029
+      Ember_Flame_83: 8255139110964094182
+      Ember_Flame_84: -6905082552862706488
+      Ember_Flame_85: 297359845495924671
+      Ember_Flame_86: 8466459442318584350
+      Ember_Flame_87: 1312365924141518615
+      Ember_Flame_88: -2145346497911344941
+      Ember_Flame_89: 1888356419940891825
+      Ember_Flame_9: 125642133878302812
+      Ember_Flame_90: -7799409602107910275
+      Ember_Flame_91: 211177209981777995
+      Ember_Flame_92: -4663066691506047103
+      Ember_Flame_93: 7396071924442155635
+      Ember_Flame_94: 9157337736444953638
+      Ember_Flame_95: 6189438127756550550
+      Ember_Flame_96: -7011492350123942105
+      Ember_Flame_97: -2931838310152757380
+      Ember_Flame_98: 642802941238284983
+      Ember_Flame_99: 7639430394295627270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

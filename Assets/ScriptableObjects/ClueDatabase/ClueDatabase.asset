@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8927dcb8d02334aa834fd3c6f2de67, type: 3}
+  m_Name: ClueDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::ClueDatabase
+  allCombos:
+  - comboID: 1
+    questionText: When does Thornwall draw its walls inward?
+    clueText: The castle does not sleep,  it exhales. Three times a night the walls
+      breathe inward. Do not be standing in the east corridor when it does.
+    correctAnswer: Three times a night
+  - comboID: 2
+    questionText: What distinguishes a Bounded from an infiltrator?
+    clueText: The Bounded do not eat. If you see someone at the banquet table, they
+      are not Bounded.
+    correctAnswer: The Bounded do not eat
+  - comboID: 3
+    questionText: How does the castle mark its longest-held prisoners?
+    clueText: The castle marks its oldest prisoners with cold hands. The longer they
+      have been Bounded, the colder the skin. The ones in the lower vaults have not
+      been warm in decades.
+    correctAnswer: Cold hands
+  - comboID: 4
+    questionText: How many doors in Thornwall open outward?
+    clueText: There is only one door in Thornwall that opens outward. The castle
+      never built another, it does not expect anything to leave.
+    correctAnswer: One
+  - comboID: 5
+    questionText: How do the garden wolves detect a free person?
+    clueText: The wolves in the garden do not hunt by sight. They hunt by the warmth
+      of free blood. Witch blood runs warmer than Bounded blood.
+    correctAnswer: By the warmth of free blood
+  - comboID: 6
+    questionText: How many times has the Heart Gate been opened?
+    clueText: The Heart Gate has been opened twice in the castle's lifetime. Both
+      times, the one who opened it did not come back as the curse consumes them.
+    correctAnswer: Twice
+  - comboID: 7
+    questionText: "When do the castle\u2019s bells toll?"
+    clueText: "The castle\u2019s bells do not toll for time. They toll when a prisoner\u2019s
+      mind breaks."
+    correctAnswer: "When a prisoner\u2019s mind breaks"
+  - comboID: 8
+    questionText: What do the mirrors in Thornwall reveal?
+    clueText: The mirrors in Thornwall do not show reflections. They show who the
+      castle wants you to see.
+    correctAnswer: Who the castle wants you to see
+  - comboID: 9
+    questionText: When do the staircases of Thornwall shift?
+    clueText: The staircases shift only at midnight. If you climb before then, you
+      will never reach the same floor twice.
+    correctAnswer: At midnight
+  - comboID: 10
+    questionText: What fuels the lanterns in the west wing?
+    clueText: The lanterns in the west wing burn without flame. They are lit by the
+      breath of the Bounded.
+    correctAnswer: The breath of the Bounded
+  - comboID: 11
+    questionText: What happens if the dungeon doors whisper your name?
+    clueText: The dungeon doors whisper names. If you hear your own, you will not
+      leave alive.
+    correctAnswer: You will not leave alive
+  - comboID: 12
+    questionText: "When does the castle\u2019s heart quiet?"
+    clueText: "The castle\u2019s heart beats louder when strangers enter. It quiets
+      only when blood is spilled."
+    correctAnswer: When blood is spilled
